@@ -1,0 +1,1 @@
+Updated version with graceful interrupt handling.
